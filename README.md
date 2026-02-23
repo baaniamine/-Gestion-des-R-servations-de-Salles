@@ -6,8 +6,11 @@
 
 ## 📽️ Demo
 
-<!-- TODO: Add demo video/gif here -->
-> 🎬 *Video demo coming soon...*
+
+
+
+https://github.com/user-attachments/assets/ed38dfaa-e2d8-4dde-b596-ebc98a21d50e
+
 
 ---
 
